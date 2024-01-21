@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student
 ----------------------------
 
-I am currently an undergraduate student at Universiti Teknologi Malaysia, Skudai, Joho and is taking the Computer Science course, specifically in Software Engineering. I have experiences in coding using multiple languages, which is Java and C++.
+I am currently an undergraduate student at Universiti Teknologi Malaysia, Skudai, Johor and is taking the Computer Science course, specifically in Software Engineering. I have experiences in coding using multiple languages, which is Java and C++.
 
 * 🌍  I'm based in Skudai, Johor Bahru, Johor
 * 🖥️  See my portfolio at [My E-Portfolio](http://ins_portfolio.com)
